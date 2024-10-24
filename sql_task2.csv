@@ -1,0 +1,78 @@
+product_id,product_name,price,supplier_id
+124,cd,452,5
+125,orc,452,5
+126,keybord,963,5
+127,printer,852,5
+128,disk,741,4
+129,hard disk,789,7
+130,mouse,456,6
+131,scanner ,123,4
+132,mouse,369,8
+133,projrctor,258,5
+134,speaker,147,2
+135,monitor,741,7
+136,keybord,852,9
+137,mouse,963,3
+138,scanner ,123,1
+139,hard disk,456,5
+140,mouse,789,6
+141,scanner ,321,2
+142,hard disk,654,5
+143,cd,987,8
+144,orc,789,7
+145,keybord,456,4
+146,mouse,123,2
+147,scanner ,369,3
+148,scanner ,258,6
+149,speaker,147,5
+150,wire,741,4
+151,keybord,852,5
+152,mouse,963,3
+153,scanner ,159,4
+154,hard disk,263,6
+155,cd,487,5
+156,orc,798,5
+157,cd,132,5
+158,orc,465,5
+159,mouse,825,7
+160,keybord,714,8
+161,keybord,936,7
+162,hard disk,789,5
+163,scanner ,214,1
+164,scanner ,285,2
+165,cd,174,3
+166,cd,12,6
+167,cd,456,5
+168,orc,789,4
+169,orc,12,2
+170,orc,456,9
+171,keybord,789,7
+172,keybord,987,8
+173,keybord,654,9
+174,scanner ,321,6
+175,cd,147,4
+176,scanner ,258,5
+177,mouse,369,3
+178,mouse,963,1
+179,keybord,852,1
+180,keybord,741,7
+181,hard disk,159,4
+182,hard disk,263,5
+183,hard disk,487,7
+184,hard disk,159,7
+185,hard disk,951,8
+186,hard disk,362,6
+187,keybord,784,5
+188,keybord,123,4
+189,keybord,456,5
+190,keybord,789,5
+191,keybord,321,5
+192,keybord,987,5
+193,keybord,123,6
+194,keybord,456,3
+195,keybord,456,4
+196,mouse,789,7
+197,mouse,199,9
+198,cd,199,4
+199,hard disk,456,9
+200,hard disk,100,7
